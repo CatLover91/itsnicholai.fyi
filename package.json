@@ -1,0 +1,18 @@
+{
+  "name": "itsnicholai.fyi",
+  "version": "1.0.0",
+  "description": "blog for itsnicholai.fyi",
+  "main": "index.js",
+  "repository": "https://github.com/CatLover91/itsnicholai.fyi.git",
+  "author": "catlover91 <7215827+CatLover91@users.noreply.github.com>",
+  "license": "GPL-v2",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "hack": "^0.8.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.8.1"
+  }
+}
